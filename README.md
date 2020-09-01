@@ -1,4 +1,4 @@
-# Node Proxmox
+# Node Proxmox Fixed
 
 ## A node.js client for proxmox. See [Proxmox wiki](http://pve.proxmox.com/wiki/Main_Page)
 
@@ -9,11 +9,11 @@
 
 ##### Installation
 
-  ```npm install proxmox```
+add this line in your package.json :
 
-or install from here.
+  ```rmymrtin/nodejs_proxmox_fixed#master```
 
-###### Example:
+###### Example :
 
     proxmox = require("proxmox")('user', 'password', 'domain.com');
 
