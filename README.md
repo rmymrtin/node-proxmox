@@ -11,7 +11,7 @@
 
 add this line in your package.json :
 
-  ```"proxmox_fixed": "rmymrtin/nodejs_proxmox_fixed#master"```
+  ```"proxmox": "rmymrtin/nodejs_proxmox_fixed#master"```
 
 ###### Example :
 
