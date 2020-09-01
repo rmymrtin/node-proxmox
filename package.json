@@ -1,12 +1,12 @@
 {
-  "name":"proxmox",
+  "name":"proxmox_fixed",
   "preferGobal": "false",
   "version": "0.1.0",
   "author": "T. Tarvis",
-  "description": "node.js, asynchronous, proxmox client",
+  "description": "node.js, asynchronous, proxmox client fixed",
   "repository": {
 	"type":"git",
-	"url":"https://github.com/ttarvis/node-proxmox"
+	"url":"https://github.com/rmymrtin/nodejs_proxmox_fixed"
    },
   "engines": {
 	"node": ">=0.10.9"
